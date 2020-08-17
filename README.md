@@ -7,3 +7,4 @@
 以此更多的去完善“三小”项目的申报的流程。本“三小”项目申报系统一个基于B/S模式的WEB系统,免去了同学们下载app的麻烦,
 浏览器输入网址点开即用.采用IntelliJ IDEA 作开为发平台，以 Java 为开发语言进行开发,SSM 框架作为编程技术,
 前端采用简单易用的Layui,后台是以MySQL 5作数据库管理系统，实现了创新创业项目申报、项目审核、项目管理之间的联系
+![image](https://github.com/MGming/project_manage/blob/master/display/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.jpg)
